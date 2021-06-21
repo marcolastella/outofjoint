@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Out of Joint",
-    "currentPage": "contatti.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -45,15 +45,17 @@
     ],
     "favicon": "@PROJECT_PATH@/assets/images/ooj-logo.png",
     "mbrsiteDomain": "tlktlvlppj",
-    "imageResize": false,
-    "robotsSwitcher": false,
-    "sitemapSwitcher": false,
-    "sitemapSwitcherAuto": false,
-    "siteUrl": false,
+    "imageResize": true,
+    "robotsSwitcher": true,
+    "sitemapSwitcher": true,
+    "sitemapSwitcherAuto": "on",
+    "siteUrl": "https://outofjoint.it",
     "cookiesAlert": false,
     "gdpr": false,
     "uniqCompNum": 18,
-    "versionPublish": "5.3.5"
+    "versionPublish": "5.3.5",
+    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
