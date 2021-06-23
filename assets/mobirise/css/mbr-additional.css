@@ -958,7 +958,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-sAY6Co1lma button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1253,6 +1253,58 @@ a {
 .cid-sAYelVdaec .mbr-text,
 .cid-sAYelVdaec .mbr-section-btn {
   color: #fafafa;
+}
+.cid-sBaGDtNPaz {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #ff1a5b;
+}
+@media (min-width: 991px) {
+  .cid-sBaGDtNPaz .container-fluid {
+    padding-left: 0;
+  }
+}
+.cid-sBaGDtNPaz .mbr-text,
+.cid-sBaGDtNPaz .mbr-section-btn {
+  color: #232323;
+}
+@media (max-width: 991px) {
+  .cid-sBaGDtNPaz .mbr-text,
+  .cid-sBaGDtNPaz .mbr-section-btn {
+    text-align: center;
+  }
+}
+@media (max-width: 991px) {
+  .cid-sBaGDtNPaz .mbr-text,
+  .cid-sBaGDtNPaz .mbr-section-title {
+    text-align: center;
+  }
+}
+.cid-sBaGDtNPaz a.btn {
+  height: 100%;
+  margin: 0;
+}
+.cid-sBaGDtNPaz .mbr-section-btn {
+  display: flex;
+  margin-bottom: 1rem;
+  width: 100%;
+}
+.cid-sBaGDtNPaz .mbr-section-btn .btn {
+  width: 100%;
+}
+@media (max-width: 991px) {
+  .cid-sBaGDtNPaz .image-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+.cid-sBaGDtNPaz .justify-content-center {
+  align-items: center;
+}
+.cid-sBaGDtNPaz .mbr-section-title {
+  color: #ffffff;
+}
+.cid-sBaGDtNPaz .mbr-text {
+  color: #ffffff;
 }
 .cid-sAYc1O4oW8 {
   padding-top: 75px;
@@ -2160,6 +2212,53 @@ a {
     left: -1rem;
   }
 }
+.cid-sBaHc6k2My {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/mbr-2.jpg");
+}
+.cid-sBaHc6k2My .item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 4rem;
+  flex-direction: column;
+}
+.cid-sBaHc6k2My .icon-box {
+  margin-bottom: 1rem;
+  text-align: center;
+  display: inline-block;
+}
+.cid-sBaHc6k2My .text-box {
+  text-align: center;
+}
+.cid-sBaHc6k2My span {
+  font-size: 9rem;
+  color: #ffffff;
+  font-weight: bold;
+  display: block;
+}
+@media (max-width: 991px) {
+  .cid-sBaHc6k2My .card {
+    margin-bottom: 2rem;
+  }
+  .cid-sBaHc6k2My .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 768px) {
+  .cid-sBaHc6k2My span {
+    font-size: 21vw;
+  }
+}
+.cid-sBaHc6k2My .icon-title,
+.cid-sBaHc6k2My .mbr-section-btn,
+.cid-sBaHc6k2My .item .icon-box .step-number {
+  color: #ffffff;
+}
+.cid-sBaHc6k2My .icon-text,
+.cid-sBaHc6k2My .mbr-section-btn {
+  color: #ffffff;
+}
 .cid-sAYgzZoDtt {
   background-image: url("../../../assets/images/schermata-2021-06-15-alle-15.12.52.png");
 }
@@ -2179,7 +2278,7 @@ a {
 .cid-sAYgCqfpiF {
   padding-top: 6rem;
   padding-bottom: 6rem;
-  background-image: url("../../../assets/images/mbr-2.jpg");
+  background-image: url("../../../assets/images/aware-1-1024x768.jpg");
 }
 .cid-sAYgCqfpiF .mbr-section-subtitle {
   color: #ffffff;
