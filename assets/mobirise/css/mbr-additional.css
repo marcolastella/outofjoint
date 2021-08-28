@@ -958,7 +958,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-sAY6Co1lma button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -1029,23 +1029,8 @@ a {
     left: -1rem;
   }
 }
-.cid-sAYej9uwnV {
-  padding-top: 6rem;
-  padding-bottom: 6rem;
-  background-image: url("../../../assets/images/schermata-2021-07-10-alle-00.36.02-942x1122.png");
-}
-.cid-sAYej9uwnV .mbr-section-subtitle {
-  color: #ffffff;
-  text-align: left;
-}
-.cid-sAYej9uwnV .mbr-section-title {
-  color: #ffffff;
-  text-align: left;
-}
-.cid-sAYej9uwnV .mbr-text,
-.cid-sAYej9uwnV .mbr-section-btn {
-  color: #ffffff;
-  text-align: left;
+.cid-sHkRGjBzfO {
+  background-image: url("../../../assets/images/ooj-ombra-1sett-2000x1125.jpg");
 }
 .cid-sAYezUKFm8 {
   padding-top: 3rem;
@@ -1135,9 +1120,6 @@ a {
 .cid-sAYelusDNY .carousel-item,
 .cid-sAYelusDNY .carousel-inner {
   height: 100%;
-}
-.cid-sAYelusDNY .mbr-overlay {
-  z-index: 1;
 }
 .cid-sAYelusDNY .carousel-caption {
   bottom: 40px;
@@ -1672,7 +1654,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-sAY6Co1lma button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2141,7 +2123,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-sAY6Co1lma button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
@@ -2211,6 +2193,61 @@ a {
     max-width: calc(100% + 2rem);
     left: -1rem;
   }
+}
+.cid-sHkSYnhboY {
+  padding-top: 3rem;
+  padding-bottom: 0rem;
+  background-image: url("../../../assets/images/mbr-2.jpg");
+}
+.cid-sHkSYnhboY .item {
+  display: flex;
+  align-items: center;
+  margin-bottom: 4rem;
+  flex-direction: column;
+}
+.cid-sHkSYnhboY .icon-box {
+  margin-bottom: 1rem;
+  text-align: center;
+  display: inline-block;
+}
+.cid-sHkSYnhboY .text-box {
+  text-align: center;
+}
+.cid-sHkSYnhboY span {
+  font-size: 9rem;
+  color: #ffffff;
+  font-weight: bold;
+  display: block;
+}
+@media (max-width: 991px) {
+  .cid-sHkSYnhboY .card {
+    margin-bottom: 2rem;
+  }
+  .cid-sHkSYnhboY .card-wrapper {
+    margin-bottom: 2rem;
+  }
+}
+@media (max-width: 768px) {
+  .cid-sHkSYnhboY span {
+    font-size: 21vw;
+  }
+}
+.cid-sHkSYnhboY .icon-title,
+.cid-sHkSYnhboY .mbr-section-btn,
+.cid-sHkSYnhboY .item .icon-box .step-number {
+  color: #ffffff;
+}
+.cid-sHkSYnhboY .icon-text,
+.cid-sHkSYnhboY .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-sHkTfy1AoC {
+  background-image: url("../../../assets/images/ooj-ombra-1sett-2000x1125.jpg");
+}
+.cid-sHkTPLGton {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #000000;
 }
 .cid-sBaHc6k2My {
   padding-top: 3rem;
@@ -2659,7 +2696,7 @@ a {
   width: 30px;
   height: 2px;
   border-right: 5px;
-  background-color: #000000;
+  background-color: #ffffff;
 }
 .cid-sAY6Co1lma button.navbar-toggler .hamburger span:nth-child(1) {
   top: 0;
