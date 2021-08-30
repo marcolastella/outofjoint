@@ -44,8 +44,8 @@
       }
     ],
     "favicon": "@PROJECT_PATH@/assets/images/ooj-logo.png",
-    "mbrsiteDomain": "tlktlvlppj",
-    "imageResize": true,
+    "mbrsiteDomain": "fuqsmpmy63",
+    "imageResize": false,
     "robotsSwitcher": true,
     "sitemapSwitcher": true,
     "sitemapSwitcherAuto": "on",
@@ -55,7 +55,7 @@
     "uniqCompNum": 40,
     "versionPublish": "5.4.1",
     "robotsText": "User-agent: *\nDisallow: /cgi-bin\n",
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "screenshot": "screenshot.png"
   },
   "pages": {
