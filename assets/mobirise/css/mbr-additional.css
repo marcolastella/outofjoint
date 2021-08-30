@@ -746,7 +746,7 @@ a {
   margin: auto;
 }
 .cid-sAY6Co1lma .iconfont-wrapper {
-  color: #000000 !important;
+  color: #ffffff !important;
   font-size: 1.5rem;
   padding-right: 0.5rem;
 }
@@ -1029,8 +1029,21 @@ a {
     left: -1rem;
   }
 }
-.cid-sHkRGjBzfO {
-  background-image: url("../../../assets/images/ooj-ombra-1sett-2000x1125.jpg");
+.cid-sHznTTEUaT {
+  padding-top: 0rem;
+  padding-bottom: 0rem;
+  background-color: #000000;
+}
+@media (max-width: 991px) {
+  .cid-sHznTTEUaT .image-wrapper {
+    margin-bottom: 1rem;
+  }
+}
+.cid-sHznTTEUaT .row {
+  flex-direction: row-reverse;
+}
+.cid-sHznTTEUaT img {
+  width: 100%;
 }
 .cid-sAYezUKFm8 {
   padding-top: 3rem;
@@ -1442,7 +1455,7 @@ a {
   margin: auto;
 }
 .cid-sAY6Co1lma .iconfont-wrapper {
-  color: #000000 !important;
+  color: #ffffff !important;
   font-size: 1.5rem;
   padding-right: 0.5rem;
 }
@@ -1911,7 +1924,7 @@ a {
   margin: auto;
 }
 .cid-sAY6Co1lma .iconfont-wrapper {
-  color: #000000 !important;
+  color: #ffffff !important;
   font-size: 1.5rem;
   padding-right: 0.5rem;
 }
@@ -2484,7 +2497,7 @@ a {
   margin: auto;
 }
 .cid-sAY6Co1lma .iconfont-wrapper {
-  color: #000000 !important;
+  color: #ffffff !important;
   font-size: 1.5rem;
   padding-right: 0.5rem;
 }
