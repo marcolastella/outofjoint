@@ -1029,8 +1029,28 @@ a {
     left: -1rem;
   }
 }
-.cid-sHztcKn7f9 {
-  background-image: url("../../../assets/images/storia-ooj-ombra-1sett-1-1080x1920.jpg");
+.cid-sHztVvLpq8 {
+  background-color: #000000;
+}
+.cid-sHztVvLpq8 .row {
+  align-items: center;
+}
+@media (max-width: 991px) {
+  .cid-sHztVvLpq8 .image-wrapper {
+    padding: 1rem;
+  }
+}
+@media (min-width: 992px) {
+  .cid-sHztVvLpq8 .text-wrapper {
+    padding: 0 2rem;
+  }
+}
+.cid-sHztVvLpq8 .mbr-section-title {
+  color: #ffffff;
+}
+.cid-sHztVvLpq8 .mbr-text,
+.cid-sHztVvLpq8 .mbr-section-btn {
+  color: #ffffff;
 }
 .cid-sAYezUKFm8 {
   padding-top: 3rem;
